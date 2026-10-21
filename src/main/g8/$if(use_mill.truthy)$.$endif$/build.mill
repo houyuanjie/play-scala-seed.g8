@@ -1,4 +1,4 @@
-//| mvnDeps: ["com.lihaoyi::mill-contrib-playlib:\$MILL_VERSION"]
+//| mvnDeps: ["com.lihaoyi::mill-contrib-playlib:$MILL_VERSION"]
 package build
 
 import mill.*
